@@ -94,8 +94,8 @@ body{
     position: relative;
     justify-content: space-between;
     gap: 250px;
-    padding-left: 150px;
-    padding-right: 90px;
+    padding-left: 180px;
+    padding-right: 180px;
 }
 .navplanet:hover{
     cursor:pointer;
@@ -135,5 +135,7 @@ p{
 }
 .planetpic{
     padding-left: 100px;
+    width: 400px;
+    height: 300px;
 
 }
